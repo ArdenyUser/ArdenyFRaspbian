@@ -6,3 +6,6 @@ AFR is a version of Raspbian 64-bit with a 32-bit kernal and many apps.
 Welcome! You can install the ArdenyFRaspbian here at this archive: https://drive.google.com/drive/folders/1j6SRNLK6Bj-94A-68_uWOIfuwfXboxPI?usp=sharing
 
 To get the latest version, go to this link:
+
+# Specs
+We have not tested it on any rpis except Rasperry Pi 4. Any way, it is based off of Raspbian 64-bit.
