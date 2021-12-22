@@ -1,5 +1,5 @@
-# ArdenyFRaspbian (SHUTDOWN)
-Welcome to the official AFR download page! NOTICE: We have shutdown development for AFR!
+# ArdenyFRaspbian 
+We are finally reopening development as ArdenyFRasbian-Refurnished.
 # What is it?
 AFR is a version of Raspbian 64-bit with a 32-bit kernal and many apps. We will make it bigger and bigger so beware!
 # Download
